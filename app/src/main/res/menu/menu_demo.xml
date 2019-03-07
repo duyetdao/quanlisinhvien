@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuitemabout"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="thêm sinh viên"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuitemthem"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="thêm sinh viên"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
